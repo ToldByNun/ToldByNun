@@ -41,6 +41,16 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=a78bfa&height=3&section=footer" alt="divider" />
 
+## 🏆 trophies
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=ToldByNun&theme=radical&column=7&margin-w=10&margin-h=10&no-bg=true" alt="trophies" />
+
+</div>
+
+<br/>
+
 ## 📊 metrics
 
 <div align="center">
@@ -67,15 +77,15 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 Job2CV
+### 🧬 Windows UEFI Bootloader Hook
 
-Electron-App: Jobs im Umkreis, Profil-Score, **personalisierte CVs + Anschreiben**, KI-Editor. *Mostly local / not fully public as one repo.*
+Low-level **UEFI Bootloader** Research im Ring-(-1)-Kontext. Fokus: fruehe Hooking-Konzepte in kontrollierter Lab-Umgebung.
 
 <br/>
 
-<img src="https://img.shields.io/badge/stack-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
-<img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/LLM%20APIs-6EE7B7?style=flat-square" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/UEFI-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/low--level-research-A78BFA?style=flat-square" />
 
 </td>
 <td width="50%" valign="top">
@@ -94,31 +104,43 @@ Epistemische KI: kleine Modelle pushen mit **Bayesian Engine**, **eigener Search
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 osu! Aim PoC
+### 🚀 Job2CV
 
-Algorithmus / Tracking / Latency — reines **Lern-Experiment**.
+Electron-App: Jobs im Umkreis, Profil-Score, **personalisierte CVs + Anschreiben**, KI-Editor. *Mostly local / not fully public as one repo.*
 
 <br/>
 
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/stack-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+<img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM%20APIs-6EE7B7?style=flat-square" />
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ Usermode Anticheat
+### 🎯 IL osu! Play + Aim PoCs
 
-Aktives **WIP**: Speicheranalyse, Heuristiken, systemnahe C++-Arbeit. Noch **kein öffentliches Footage**.
+Imitation-Learning + Aim/Tracking-Experimente rund um osu! Input, Latency und Inferenz-Stabilitaet.
 
 <br/>
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/status-WIP-F97316?style=flat-square" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Imitation%20Learning-6EE7B7?style=flat-square" />
 
 </td>
 </tr>
 </table>
 
 <br/>
+
+## 🆕 latest 3 months (private demos)
+
+- `AOB-generator-osu-demo` - AOB / Pattern-Generation Workflow-Demo
+- `memory-manipulation-esp-poc-demo` - Memory-/ESP-PoC fuer Datenpfade & Overlay-Sync
+- `roblox-ingame-screenrecording-demo` - Ingame Live-Screenstream auf Frame ohne externe Tools
+- `rhythiaroblox-demo` - ImGui-Library fuer schnelle Shader-Integration
+- `custom-gun-particle-test-demo` - Roblox Sandbox Framework fuer custom Gun-Particles via ImageBuffer
+- `roblox-modular-ui-library-demo` - modulare UI-Library fuer schnelle Roblox-Iteration
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=a78bfa&height=3&section=footer" alt="divider" />
 
