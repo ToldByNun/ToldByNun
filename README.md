@@ -1,98 +1,172 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:14532d,60:6EE7B7,100:0d1117&height=220&section=header&text=Mika%20%2F%20ToldByNun&fontSize=52&fontColor=fff&fontAlignY=38&desc=low-level%20%E2%80%A2%20graphics%20%E2%80%A2%20AI%20orchestration&descAlignY=56&descSize=18&animation=twinkling" alt="header" />
+
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=6EE7B7&center=true&vCenter=true&width=520&lines=hi%2C+i'm+mika.;developer+%2F+automation+enthusiast;build-first.+ship+fast." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2200&pause=700&color=6EE7B7&center=true&vCenter=true&width=700&lines=build-first.%20no%20bloat.;C%20%2F%20C%2B%2B%20%2F%20Python%20%2F%20Lua%20%2B%20Luau;kernel%20%E2%80%A2%20memory%20%E2%80%A2%20shaders%20%E2%80%A2%20LLMs" alt="typing" />
 
-  <p>
-    <code>$ whoami</code> &nbsp;·&nbsp; 18y &nbsp;·&nbsp; based in Germany &nbsp;·&nbsp; <code>he/him</code>
-  </p>
+  <br/>
 
-  <a href="mailto:mikajoeldierks@gmail.com">
-    <img src="https://img.shields.io/badge/email-mikajoeldierks%40gmail.com-6EE7B7?style=flat-square&logo=gmail&logoColor=black" />
-  </a>
-  <img src="https://img.shields.io/badge/status-open%20to%20opportunities-6EE7B7?style=flat-square" />
+  <a href="mailto:mikajoeldierks@gmail.com"><img src="https://img.shields.io/badge/mail-mikajoeldierks%40gmail.com-6EE7B7?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+  <img src="https://img.shields.io/badge/location-Germany-161b22?style=for-the-badge&logo=googlemaps&logoColor=6EE7B7" />
+  <img src="https://img.shields.io/badge/pronouns-he%2Fhim-a78bfa?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=ToldByNun&label=profile%20views&color=6EE7B7&style=for-the-badge" alt="views" />
 
 </div>
 
----
+<br/>
 
-## > about
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=6EE7B7&height=3&section=footer" alt="divider" />
 
-```ts
-const mika = {
-  focus:    ["desktop apps", "AI / LLMs", "low-level tooling"],
-  building: ["Job2CV", "Sentic AI", "usermode anticheat"],
-  loves:    ["clean code", "fast iteration", "weird side projects"],
-  learning: ["systems programming", "epistemic AI"],
-};
-```
+## ⚡ stack
 
-## > stack
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-</p>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" />
+  &nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" />
+  &nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
+  &nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" />
+  &nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" />
+  &nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node" />
+  &nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="Electron" />
 
-## > featured projects
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=a78bfa&height=3&section=footer" alt="divider" />
+
+## 🏆 trophies
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=ToldByNun&theme=radical&column=7&margin-w=10&margin-h=10&no-bg=true" alt="trophies" />
+
+</div>
+
+<br/>
+
+## 📊 metrics
+
+<div align="center">
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ToldByNun&show_icons=true&rank_icon=github&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=e6edf3&ring_color=6EE7B7" alt="stats" />
+  &nbsp;&nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToldByNun&layout=donut&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=e6edf3" alt="langs" />
+  &nbsp;&nbsp;
+  <img height="180" src="https://streak-stats.demolab.com/?user=ToldByNun&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=6EE7B7&fire=6EE7B7&currStreakNum=6EE7B7&currStreakLabel=6EE7B7&sideNums=6EE7B7" alt="streak" />
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ToldByNun&theme=github-dark&color=6EE7B7&line=6EE7B7&point=FFFFFF&hide_border=true&area=true" alt="activity" />
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=6EE7B7&height=3&section=footer" alt="divider" />
+
+## 🔥 spotlight (not all on GitHub)
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 ### 🚀 Job2CV
 
-Electron-App, die Stellenanzeigen in deinem Umkreis findet, sie anhand deines Profils bewertet und automatisch personalisierte CVs + Anschreiben generiert. Inkl. AI-Editor zum Anpassen.
+Electron-App: Jobs im Umkreis, Profil-Score, **personalisierte CVs + Anschreiben**, KI-Editor. *Mostly local / not fully public as one repo.*
 
-`Electron` `Node.js` `LLM APIs`
+<br/>
 
-   </td>
-   <td width="50%" valign="top">
+<img src="https://img.shields.io/badge/stack-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+<img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM%20APIs-6EE7B7?style=flat-square" />
+
+</td>
+<td width="50%" valign="top">
 
 ### 🧠 Sentic AI
 
-Epistemische KI, die low-param Modelle ans Limit pusht: eigene Bayesian Engine, eigene Search Engine, lokale Modelle + APIs für OpenAI / Claude / NVIDIA.
+Epistemische KI: kleine Modelle pushen mit **Bayesian Engine**, **eigener Search**, **lokal + Cloud** (OpenAI, Claude, NVIDIA, …). Repo ist **private** (`sentic.ai`).
 
-`Python` `Bayesian` `Local LLMs`
+<br/>
 
-   </td>
-  </tr>
-  <tr>
-   <td width="50%" valign="top">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/research-epistemic-A78BFA?style=flat-square" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🎯 osu! Aim PoC
 
-Proof-of-Concept für einen Aim-Algorithmus. Reines Lernprojekt für Tracking, Prediction und Input-Latency.
+Algorithmus / Tracking / Latency — reines **Lern-Experiment**.
 
-`C++` `Algorithm`
+<br/>
 
-   </td>
-   <td width="50%" valign="top">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 
-### 🛡️ Usermode Anticheat <sub>· wip</sub>
+</td>
+<td width="50%" valign="top">
 
-Eigenes Usermode-Anticheat in C++ als Lernprojekt für systemnahe Entwicklung, Speicheranalyse und Erkennungsstrategien.
+### 🛡️ Usermode Anticheat
 
-`C++` `Win32` `Reverse Engineering`
+Aktives **WIP**: Speicheranalyse, Heuristiken, systemnahe C++-Arbeit. Noch **kein öffentliches Footage**.
 
-   </td>
-  </tr>
+<br/>
+
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/status-WIP-F97316?style=flat-square" />
+
+</td>
+</tr>
 </table>
 
-## > stats
+<br/>
 
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=a78bfa&height=3&section=footer" alt="divider" />
 
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ToldByNun&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=e6edf3" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToldByNun&layout=compact&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=e6edf3" />
+## 🌐 public repos
 
-</div>
+> Klickbare Links — alles andere ist **🔒 private** und für andere Nutzer nicht sichtbar (kein Link).
 
----
+| repo | lang | hook |
+|------|------|------|
+| [**TopoLines**](https://github.com/ToldByNun/TopoLines) | Luau | Roblox-Script: **topographischer Linien-Shader** mit Writable Image Buffers — hohe Qualität / Auflösung, **sehr gute Performance** trotz reinem Lua. |
+| [**osu-parser-cpp**](https://github.com/ToldByNun/osu-parser-cpp) | C++ | Einfacher `.osu` Parser für **Research** / Experimente. |
+| [**py-arch-x**](https://github.com/ToldByNun/py-arch-x) | Python | CLI-Tool: scannt Codebases per `ast`, meldet **wahrscheinlich unbenutzte** Funktionen — klein, lesbar. |
+| [**Unified-AI-Provider-Orchestrator**](https://github.com/ToldByNun/Unified-AI-Provider-Orchestrator) | Python | Modulare **LLM-Provider-Abstraktion** — mehrere Backends orchestrieren. |
+| [**Ui-Libraries**](https://github.com/ToldByNun/Ui-Libraries) | Lua | Eigene UI-Libs: **clean visuals**, vorhersagbares Verhalten, **real usage** (nicht nur Demos). |
 
-<div align="center">
-  <sub><code>$ exit 0</code></sub>
-</div>
+<br/>
+
+## 🔒 private lab (descriptions only)
+
+<table>
+<tr>
+<td width="28%"><b>Spectre-Memory-Framework</b><br/><sub>C · 🔒 private</sub></td>
+<td>Memory-Library in <b>C</b> <b>ohne Imports</b>: ASM Kernel-Hook, der <b>ntdll</b>-Funktionen hooked, sodass Programme denken, <b>alle Calls kämen von ntdll</b>.</td>
+</tr>
+<tr>
+<td><b>RhythiaRoblox</b><br/><sub>C++ · 🔒 private</sub></td>
+<td>C++-Library: mit wenigen Zeilen <b>custom Shader</b> ins <b>Dear ImGui</b> — z. B. Topo-Shader oder <b>Blur</b>, per <b>HLSL</b> oder <b>GLSL</b>.</td>
+</tr>
+<tr>
+<td><b>kernel-read-driver</b><br/><sub>C · 🔒 private</sub></td>
+<td>Minimaler Kernel-Read-Treiber: <code>IRP_MJ_DEVICE_CONTROL</code>, Hook auf <code>\Driver\Beep</code>, dazu <b>version-aware CR3</b> aus <code>PEPROCESS</code>.</td>
+</tr>
+<tr>
+<td><b>sentic.ai</b><br/><sub>Python · 🔒 private</sub></td>
+<td>Offizielles Repo für <b>sentic.ai</b> — epistemische KI / Tooling (Details nur im privaten Tree).</td>
+</tr>
+</table>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,40:0d1117,100:161b22&height=140&section=footer&fontSize=42&fontColor=fff&text=thanks%20for%20stopping%20by%20%E2%80%94%20star%20a%20repo%20if%20you%20vibe%20with%20it&fontAlignY=75" alt="footer" />
