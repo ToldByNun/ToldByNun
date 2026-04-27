@@ -1,27 +1,27 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:14532d,60:6EE7B7,100:0d1117&height=220&section=header&text=Mika%20%2F%20ToldByNun&fontSize=52&fontColor=fff&fontAlignY=38&desc=low-level%20%E2%80%A2%20graphics%20%E2%80%A2%20AI%20orchestration&descAlignY=56&descSize=18&animation=twinkling" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050807,30:0b120d,65:6f8f6a,100:050807&height=220&section=header&text=Mika%20%2F%20ToldByNun&fontSize=52&fontColor=e7f0e3&fontAlignY=38&desc=low-level%20%E2%80%A2%20graphics%20%E2%80%A2%20AI%20orchestration&descAlignY=56&descSize=18&animation=twinkling" alt="header" />
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2200&pause=700&color=6EE7B7&center=true&vCenter=true&width=700&lines=build-first.%20no%20bloat.;C%20%2F%20C%2B%2B%20%2F%20Python%20%2F%20Lua%20%2B%20Luau;kernel%20%E2%80%A2%20memory%20%E2%80%A2%20shaders%20%E2%80%A2%20LLMs" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2200&pause=700&color=B8D0B1&center=true&vCenter=true&width=700&lines=build-first.%20no%20bloat.;C%20%2F%20C%2B%2B%20%2F%20Python%20%2F%20Lua%20%2B%20Luau;kernel%20%E2%80%A2%20memory%20%E2%80%A2%20shaders%20%E2%80%A2%20LLMs" alt="typing" />
 
   <br/>
 
-  <a href="mailto:mikajoeldierks@gmail.com"><img src="https://img.shields.io/badge/mail-mikajoeldierks%40gmail.com-6EE7B7?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-  <img src="https://img.shields.io/badge/location-Germany-161b22?style=for-the-badge&logo=googlemaps&logoColor=6EE7B7" />
-  <img src="https://img.shields.io/badge/pronouns-he%2Fhim-a78bfa?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=ToldByNun&label=profile%20views&color=6EE7B7&style=for-the-badge" alt="views" />
+  <a href="mailto:mikajoeldierks@gmail.com"><img src="https://img.shields.io/badge/mail-mikajoeldierks%40gmail.com-B8D0B1?style=for-the-badge&logo=gmail&logoColor=0a0d0b" /></a>
+  <img src="https://img.shields.io/badge/location-Germany-0b120d?style=for-the-badge&logo=googlemaps&logoColor=B8D0B1" />
+  <img src="https://img.shields.io/badge/pronouns-he%2Fhim-6f8f6a?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=ToldByNun&label=profile%20views&color=6f8f6a&style=for-the-badge" alt="views" />
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=6EE7B7&height=3&section=footer" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=6f8f6a&height=3&section=footer" alt="divider" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=160&text=QUICK%20DEMOS&fontSize=48&color=0:6EE7B7,100:0d1117&stroke=6EE7B7" alt="quick demos banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=160&text=QUICK%20DEMOS&fontSize=48&color=0:B8D0B1,100:050807&stroke=6f8f6a" alt="quick demos banner" />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/watch%20now-featured%20demos-6EE7B7?style=for-the-badge&logo=youtube&logoColor=black" />
-  <img src="https://img.shields.io/badge/new-private%20project%20footage-a78bfa?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/watch%20now-featured%20demos-B8D0B1?style=for-the-badge&logo=youtube&logoColor=0a0d0b" />
+  <img src="https://img.shields.io/badge/new-private%20project%20footage-6f8f6a?style=for-the-badge" />
 </div>
 
 ## 🎬 quick demos
@@ -67,7 +67,7 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=a78bfa&height=3&section=footer" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=50664c&height=3&section=footer" alt="divider" />
 
 ## 🏆 trophies
 
@@ -83,21 +83,21 @@
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ToldByNun&show_icons=true&rank_icon=github&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=e6edf3&ring_color=6EE7B7" alt="stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ToldByNun&show_icons=true&rank_icon=github&hide_border=true&bg_color=050807&title_color=B8D0B1&icon_color=8EAF89&text_color=d7e3d1&ring_color=8EAF89" alt="stats" />
   &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToldByNun&layout=donut&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=e6edf3" alt="langs" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToldByNun&layout=donut&hide_border=true&bg_color=050807&title_color=B8D0B1&text_color=d7e3d1" alt="langs" />
   &nbsp;&nbsp;
-  <img height="180" src="https://streak-stats.demolab.com/?user=ToldByNun&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=6EE7B7&fire=6EE7B7&currStreakNum=6EE7B7&currStreakLabel=6EE7B7&sideNums=6EE7B7" alt="streak" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=ToldByNun&theme=dark&hide_border=true&background=050807&stroke=1b251c&ring=B8D0B1&fire=8EAF89&currStreakNum=B8D0B1&currStreakLabel=B8D0B1&sideNums=8EAF89" alt="streak" />
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ToldByNun&theme=github-dark&color=6EE7B7&line=6EE7B7&point=FFFFFF&hide_border=true&area=true" alt="activity" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ToldByNun&theme=github-dark&color=B8D0B1&line=8EAF89&point=E7F0E3&hide_border=true&area=true" alt="activity" />
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=6EE7B7&height=3&section=footer" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=6f8f6a&height=3&section=footer" alt="divider" />
 
 ## 🔥 spotlight (not all on GitHub)
 
@@ -140,7 +140,7 @@ Electron-App: Jobs im Umkreis, Profil-Score, **personalisierte CVs + Anschreiben
 
 <img src="https://img.shields.io/badge/stack-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
 <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/LLM%20APIs-6EE7B7?style=flat-square" />
+<img src="https://img.shields.io/badge/LLM%20APIs-B8D0B1?style=flat-square" />
 
 </td>
 <td width="50%" valign="top">
@@ -153,7 +153,7 @@ Imitation-Learning + Aim/Tracking-Experimente rund um osu! Input, Latency und In
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Imitation%20Learning-6EE7B7?style=flat-square" />
+<img src="https://img.shields.io/badge/Imitation%20Learning-B8D0B1?style=flat-square" />
 
 </td>
 </tr>
@@ -170,7 +170,7 @@ Imitation-Learning + Aim/Tracking-Experimente rund um osu! Input, Latency und In
 - `custom-gun-particle-test-demo` - Roblox Sandbox Framework fuer custom Gun-Particles via ImageBuffer
 - `roblox-modular-ui-library-demo` - modulare UI-Library fuer schnelle Roblox-Iteration
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=a78bfa&height=3&section=footer" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=50664c&height=3&section=footer" alt="divider" />
 
 ## 🌐 public repos
 
@@ -209,4 +209,4 @@ Imitation-Learning + Aim/Tracking-Experimente rund um osu! Input, Latency und In
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,40:0d1117,100:161b22&height=120&section=footer&fontSize=30&fontColor=fff&text=thanks%20for%20stopping%20by&fontAlignY=72" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8EAF89,40:050807,100:0b120d&height=120&section=footer&fontSize=30&fontColor=e7f0e3&text=thanks%20for%20stopping%20by&fontAlignY=72" alt="footer" />
