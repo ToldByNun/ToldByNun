@@ -17,6 +17,34 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=6EE7B7&height=3&section=footer" alt="divider" />
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=160&text=QUICK%20DEMOS&fontSize=48&color=0:6EE7B7,100:0d1117&stroke=6EE7B7" alt="quick demos banner" />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/watch%20now-featured%20demos-6EE7B7?style=for-the-badge&logo=youtube&logoColor=black" />
+  <img src="https://img.shields.io/badge/new-private%20project%20footage-a78bfa?style=for-the-badge" />
+</div>
+
+## 🎬 quick demos
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <b>Windows UEFI Bootloader Hook</b><br/>
+        <video src="https://raw.githubusercontent.com/ToldByNun/ToldByNun/main/assets/videos/windows-kernel-bootloader-hook-demo.mp4" controls muted width="100%"></video><br/>
+        <sub><a href="https://raw.githubusercontent.com/ToldByNun/ToldByNun/main/assets/videos/windows-kernel-bootloader-hook-demo.mp4">direct link</a></sub>
+      </td>
+      <td width="50%" valign="top">
+        <b>Job2CV</b><br/>
+        <video src="https://raw.githubusercontent.com/ToldByNun/ToldByNun/main/assets/videos/job2cv-demo.mp4" controls muted width="100%"></video><br/>
+        <sub><a href="https://raw.githubusercontent.com/ToldByNun/ToldByNun/main/assets/videos/job2cv-demo.mp4">direct link</a></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
 ## ⚡ stack
 
 <div align="center">
@@ -178,27 +206,6 @@ Imitation-Learning + Aim/Tracking-Experimente rund um osu! Input, Latency und In
 <td>Offizielles Repo für <b>sentic.ai</b> — epistemische KI / Tooling (Details nur im privaten Tree).</td>
 </tr>
 </table>
-
-<br/>
-
-## 🎬 quick demos
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <b>Windows UEFI Bootloader Hook</b><br/>
-        <video src="https://raw.githubusercontent.com/ToldByNun/ToldByNun/main/assets/videos/windows-kernel-bootloader-hook-demo.mp4" controls muted width="100%"></video><br/>
-        <sub><a href="https://raw.githubusercontent.com/ToldByNun/ToldByNun/main/assets/videos/windows-kernel-bootloader-hook-demo.mp4">direct link</a></sub>
-      </td>
-      <td width="50%" valign="top">
-        <b>Job2CV</b><br/>
-        <video src="https://raw.githubusercontent.com/ToldByNun/ToldByNun/main/assets/videos/job2cv-demo.mp4" controls muted width="100%"></video><br/>
-        <sub><a href="https://raw.githubusercontent.com/ToldByNun/ToldByNun/main/assets/videos/job2cv-demo.mp4">direct link</a></sub>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <br/>
 
