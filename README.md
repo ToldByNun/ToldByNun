@@ -41,16 +41,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=a78bfa&height=3&section=footer" alt="divider" />
 
-## 🏆 trophies
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=ToldByNun&theme=radical&column=7&margin-w=10&margin-h=10&no-bg=true" alt="trophies" />
-
-</div>
-
-<br/>
-
 ## 📊 metrics
 
 <div align="center">
