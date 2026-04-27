@@ -181,4 +181,25 @@ Imitation-Learning + Aim/Tracking-Experimente rund um osu! Input, Latency und In
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,40:0d1117,100:161b22&height=140&section=footer&fontSize=42&fontColor=fff&text=thanks%20for%20stopping%20by%20%E2%80%94%20star%20a%20repo%20if%20you%20vibe%20with%20it&fontAlignY=75" alt="footer" />
+## 🎬 quick demos
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <b>Windows UEFI Bootloader Hook</b><br/>
+        <video src="https://raw.githubusercontent.com/ToldByNun/ToldByNun/main/assets/videos/windows-kernel-bootloader-hook-demo.mp4" controls muted width="100%"></video><br/>
+        <sub><a href="https://raw.githubusercontent.com/ToldByNun/ToldByNun/main/assets/videos/windows-kernel-bootloader-hook-demo.mp4">direct link</a></sub>
+      </td>
+      <td width="50%" valign="top">
+        <b>Job2CV</b><br/>
+        <video src="https://raw.githubusercontent.com/ToldByNun/ToldByNun/main/assets/videos/job2cv-demo.mp4" controls muted width="100%"></video><br/>
+        <sub><a href="https://raw.githubusercontent.com/ToldByNun/ToldByNun/main/assets/videos/job2cv-demo.mp4">direct link</a></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,40:0d1117,100:161b22&height=120&section=footer&fontSize=30&fontColor=fff&text=thanks%20for%20stopping%20by&fontAlignY=72" alt="footer" />
