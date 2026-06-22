@@ -88,22 +88,6 @@ Open to collaboration on systems tooling, shader pipelines, and AI infrastructur
 
 </div>
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=50664c&height=3&section=footer" alt="divider" />
-
-## highlights
-
-<div align="center">
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ToldByNun&theme=2077" alt="profile details" />
-  &nbsp;&nbsp;
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ToldByNun&theme=2077&utcOffset=1" alt="productive time" />
-  &nbsp;&nbsp;
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ToldByNun&theme=2077" alt="repos per language" />
-</div>
-
-<br/>
-
 ## metrics
 
 <sub>Stats reflect <b>public</b> GitHub activity only — most of my work lives in private repos.</sub>
