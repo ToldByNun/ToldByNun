@@ -7,6 +7,8 @@
   <br/>
 
   <a href="mailto:mikajoeldierks@gmail.com"><img src="https://img.shields.io/badge/mail-mikajoeldierks%40gmail.com-B8D0B1?style=for-the-badge&logo=gmail&logoColor=0a0d0b" /></a>
+  <a href="https://toldbynun.github.io/"><img src="https://img.shields.io/badge/portfolio-toldbynun.github.io-0b120d?style=for-the-badge&logo=githubpages&logoColor=B8D0B1" /></a>
+  <a href="https://www.job2cv.app/"><img src="https://img.shields.io/badge/Job2CV-live%20app-6f8f6a?style=for-the-badge&logo=electron&logoColor=B8D0B1" /></a>
   <img src="https://img.shields.io/badge/location-Germany-0b120d?style=for-the-badge&logo=googlemaps&logoColor=B8D0B1" />
   <img src="https://img.shields.io/badge/pronouns-he%2Fhim-6f8f6a?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=ToldByNun&label=profile%20views&color=6f8f6a&style=for-the-badge" alt="views" />
@@ -19,7 +21,9 @@
 
 ## about
 
-Low-level systems builder from Germany. I ship research prototypes across **UEFI/kernel space**, **real-time graphics**, and **LLM orchestration** — usually private, always build-first.
+Low-level systems builder from Germany. I ship research prototypes across **UEFI/kernel space**, **real-time graphics**, **game RE**, and **LLM orchestration** — usually private, always build-first.
+
+Currently shipping **[Job2CV](https://www.job2cv.app/)** and open-sourcing UE5 memory / aim-algorithm research.
 
 Open to collaboration on systems tooling, shader pipelines, and AI infrastructure.
 
@@ -29,7 +33,7 @@ Open to collaboration on systems tooling, shader pipelines, and AI infrastructur
 
 <div align="center">
   <img src="https://img.shields.io/badge/watch%20now-featured%20demos-B8D0B1?style=for-the-badge&logo=youtube&logoColor=0a0d0b" />
-  <img src="https://img.shields.io/badge/new-private%20project%20footage-6f8f6a?style=for-the-badge" />
+  <a href="https://toldbynun.github.io/"><img src="https://img.shields.io/badge/full%20portfolio-with%20all%20clips-6f8f6a?style=for-the-badge" /></a>
 </div>
 
 ## quick demos
@@ -40,14 +44,28 @@ Open to collaboration on systems tooling, shader pipelines, and AI infrastructur
       <td width="50%" valign="top">
         <b>Windows UEFI Bootloader Hook</b><br/>
         <sub>Early boot hooking in a controlled ring&nbsp;-1 lab setup.</sub><br/><br/>
-        <video src="https://raw.githubusercontent.com/ToldByNun/ToldByNun/main/assets/videos/windows-kernel-bootloader-hook-demo.mp4" controls muted width="100%"></video><br/>
-        <sub><a href="https://raw.githubusercontent.com/ToldByNun/ToldByNun/main/assets/videos/windows-kernel-bootloader-hook-demo.mp4">direct link</a></sub>
+        <video src="https://toldbynun.github.io/assets/videos/windows-kernel-bootloader-hook-demo.mp4" controls muted width="100%"></video><br/>
+        <sub><a href="https://toldbynun.github.io/assets/videos/windows-kernel-bootloader-hook-demo.mp4">direct link</a></sub>
       </td>
       <td width="50%" valign="top">
         <b>Job2CV</b><br/>
-        <sub>Electron app: local job matching, profile scoring, and AI-generated CVs.</sub><br/><br/>
-        <video src="https://raw.githubusercontent.com/ToldByNun/ToldByNun/main/assets/videos/job2cv-demo.mp4" controls muted width="100%"></video><br/>
-        <sub><a href="https://raw.githubusercontent.com/ToldByNun/ToldByNun/main/assets/videos/job2cv-demo.mp4">direct link</a></sub>
+        <sub>Electron app: local job matching, profile scoring, and AI-generated CVs. Live at <a href="https://www.job2cv.app/">job2cv.app</a>.</sub><br/><br/>
+        <video src="https://toldbynun.github.io/assets/videos/job2cv-demo.mp4" controls muted width="100%"></video><br/>
+        <sub><a href="https://toldbynun.github.io/assets/videos/job2cv-demo.mp4">direct link</a></sub>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <b>Sentic AI</b><br/>
+        <sub>Epistemic stack — Bayesian engine, custom search, local + cloud providers.</sub><br/><br/>
+        <video src="https://toldbynun.github.io/assets/videos/sentic-ai-demo.mp4" controls muted width="100%"></video><br/>
+        <sub><a href="https://toldbynun.github.io/assets/videos/sentic-ai-demo.mp4">direct link</a></sub>
+      </td>
+      <td width="50%" valign="top">
+        <b>Roblox Topo Shader</b><br/>
+        <sub>Writable image-buffer topo lines — high quality, pure Luau.</sub><br/><br/>
+        <video src="https://toldbynun.github.io/assets/videos/roblox-toposhader-demo.mp4" controls muted width="100%"></video><br/>
+        <sub><a href="https://toldbynun.github.io/assets/videos/roblox-toposhader-demo.mp4">direct link</a></sub>
       </td>
     </tr>
   </table>
@@ -82,6 +100,7 @@ Open to collaboration on systems tooling, shader pipelines, and AI infrastructur
 **focus areas**<br/>
 <img src="https://img.shields.io/badge/UEFI-111827?style=flat-square" />
 <img src="https://img.shields.io/badge/kernel-6f8f6a?style=flat-square" />
+<img src="https://img.shields.io/badge/UE5%20RE-B8D0B1?style=flat-square" />
 <img src="https://img.shields.io/badge/shaders-B8D0B1?style=flat-square" />
 <img src="https://img.shields.io/badge/LLMs-A78BFA?style=flat-square" />
 <img src="https://img.shields.io/badge/Dear%20ImGui-47848F?style=flat-square" />
@@ -108,9 +127,36 @@ Open to collaboration on systems tooling, shader pipelines, and AI infrastructur
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=6f8f6a&height=3&section=footer" alt="divider" />
 
-## spotlight (not all on GitHub)
+## spotlight
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+### [MecchaChameleon External](https://github.com/ToldByNun/MecchaChameleon-External-Cheat)
+
+Open-source **UE5 external** for Meccha Chameleon — AOB scans, `GWorld`/`GNames` walks, DXGI + ImGui overlay, ESP / minimap / combat tooling. Built as memory-research practice.
+
+<br/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/UE5-0E1128?style=flat-square" />
+<img src="https://img.shields.io/badge/stars-6-B8D0B1?style=flat-square" />
+<img src="https://img.shields.io/badge/external%20RE-6f8f6a?style=flat-square" />
+
+</td>
+<td width="50%" valign="top">
+
+### [Job2CV](https://www.job2cv.app/)
+
+Electron app: nearby job discovery, profile scoring, **personalized CVs + cover letters**, and an AI editor. Live product — [job2cv.app](https://www.job2cv.app/).
+
+<br/>
+<img src="https://img.shields.io/badge/stack-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+<img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM%20APIs-B8D0B1?style=flat-square" />
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -136,37 +182,11 @@ Epistemic AI stack: pushing smaller models with a **Bayesian engine**, **custom 
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### Job2CV
-
-Electron app: nearby job discovery, profile scoring, **personalized CVs + cover letters**, and an AI editor. *Mostly local — not fully public as one repo.*
-
-<br/>
-<img src="https://img.shields.io/badge/stack-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
-<img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/LLM%20APIs-B8D0B1?style=flat-square" />
-
-</td>
-<td width="50%" valign="top">
-
-### IL osu! Play + Aim PoCs
-
-Imitation-learning and aim/tracking experiments around osu! input latency and inference stability.
-
-<br/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Imitation%20Learning-B8D0B1?style=flat-square" />
-
-</td>
-</tr>
 </table>
 
 <br/>
 
-## latest 3 months (private demos)
+## latest (private demos)
 
 - `AOB-generator-osu-demo` — AOB / pattern-generation workflow demo
 - `memory-manipulation-esp-poc-demo` — memory / ESP PoC for data paths and overlay sync
@@ -174,6 +194,8 @@ Imitation-learning and aim/tracking experiments around osu! input latency and in
 - `rhythiaroblox-demo` — ImGui library for fast shader integration
 - `custom-gun-particle-test-demo` — Roblox sandbox framework for custom gun particles via ImageBuffer
 - `roblox-modular-ui-library-demo` — modular UI library for rapid Roblox iteration
+
+→ all clips live on the [portfolio](https://toldbynun.github.io/)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=50664c&height=3&section=footer" alt="divider" />
 
@@ -183,11 +205,14 @@ Imitation-learning and aim/tracking experiments around osu! input latency and in
 
 | repo | lang | about |
 |------|------|-------|
-| [**TopoLines**](https://github.com/ToldByNun/TopoLines) | Luau | Roblox topo-line shader with writable image buffers — high quality, great performance in pure Lua. |
+| [**MecchaChameleon-External-Cheat**](https://github.com/ToldByNun/MecchaChameleon-External-Cheat) | C++ | Open-source UE5 external: AOB, world/name walks, DXGI overlay, ESP / combat tooling. |
+| [**sentinel**](https://github.com/ToldByNun/sentinel) | C++ | From-scratch neural net / transformer training stack in C++ (attention, embeddings, datasets). |
+| [**Chicony-AA-Algorithm**](https://github.com/ToldByNun/Chicony-AA-Algorithm) | C++ | Educational aim-assist filter visualizer — overlay only, no game hooks. |
+| [**kernel-read-driver**](https://github.com/ToldByNun/kernel-read-driver) | C | Minimal kernel read driver: `IRP_MJ_DEVICE_CONTROL`, `\Driver\Beep` hook, version-aware CR3. |
 | [**osu-parser-cpp**](https://github.com/ToldByNun/osu-parser-cpp) | C++ | Lightweight `.osu` parser for research and experimentation. |
+| [**Ui-Libraries**](https://github.com/ToldByNun/Ui-Libraries) | Lua | Custom UI libs: clean visuals, predictable behavior, real usage — not just demos. |
 | [**py-arch-x**](https://github.com/ToldByNun/py-arch-x) | Python | CLI tool: scans codebases via `ast`, flags likely-unused functions — small and readable. |
 | [**Unified-AI-Provider-Orchestrator**](https://github.com/ToldByNun/Unified-AI-Provider-Orchestrator) | Python | Modular LLM provider abstraction — orchestrate multiple backends from one interface. |
-| [**Ui-Libraries**](https://github.com/ToldByNun/Ui-Libraries) | Lua | Custom UI libs: clean visuals, predictable behavior, real usage — not just demos. |
 
 <br/>
 
@@ -203,10 +228,6 @@ Imitation-learning and aim/tracking experiments around osu! input latency and in
 <td>C++ library: drop <b>custom shaders</b> into <b>Dear ImGui</b> in a few lines — topo shaders, <b>blur</b>, via <b>HLSL</b> or <b>GLSL</b>.</td>
 </tr>
 <tr>
-<td><b>kernel-read-driver</b><br/><sub>C · private</sub></td>
-<td>Minimal kernel read driver: <code>IRP_MJ_DEVICE_CONTROL</code>, hook on <code>\Driver\Beep</code>, plus <b>version-aware CR3</b> from <code>PEPROCESS</code>.</td>
-</tr>
-<tr>
 <td><b><a href="http://sentic.ai">sentic.ai</a></b><br/><sub>Python · private</sub></td>
 <td>Official repo for <b><a href="http://sentic.ai">sentic.ai</a></b> — epistemic AI tooling (details live in the private tree).</td>
 </tr>
@@ -215,7 +236,7 @@ Imitation-learning and aim/tracking experiments around osu! input latency and in
 <br/>
 
 <div align="center">
-  <sub>Open to collab on systems, graphics, and AI tooling.</sub>
+  <sub>Open to collab on systems, graphics, and AI tooling · <a href="https://toldbynun.github.io/">portfolio</a> · <a href="https://www.job2cv.app/">Job2CV</a></sub>
 </div>
 
 <br/>
