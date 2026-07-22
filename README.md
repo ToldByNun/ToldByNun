@@ -7,7 +7,6 @@
   <br/>
 
   <a href="mailto:mikajoeldierks@gmail.com"><img src="https://img.shields.io/badge/mail-mikajoeldierks%40gmail.com-B8D0B1?style=for-the-badge&logo=gmail&logoColor=0a0d0b" /></a>
-  <a href="https://toldbynun.github.io/"><img src="https://img.shields.io/badge/portfolio-toldbynun.github.io-0b120d?style=for-the-badge&logo=githubpages&logoColor=B8D0B1" /></a>
   <a href="https://www.job2cv.app/"><img src="https://img.shields.io/badge/Job2CV-live%20app-6f8f6a?style=for-the-badge&logo=electron&logoColor=B8D0B1" /></a>
   <img src="https://img.shields.io/badge/location-Germany-0b120d?style=for-the-badge&logo=googlemaps&logoColor=B8D0B1" />
   <img src="https://img.shields.io/badge/pronouns-he%2Fhim-6f8f6a?style=for-the-badge" />
@@ -33,7 +32,6 @@ Open to collaboration on systems tooling, shader pipelines, and AI infrastructur
 
 <div align="center">
   <img src="https://img.shields.io/badge/watch%20now-featured%20demos-B8D0B1?style=for-the-badge&logo=youtube&logoColor=0a0d0b" />
-  <a href="https://toldbynun.github.io/"><img src="https://img.shields.io/badge/full%20portfolio-with%20all%20clips-6f8f6a?style=for-the-badge" /></a>
 </div>
 
 ## quick demos
@@ -195,8 +193,6 @@ Epistemic AI stack: pushing smaller models with a **Bayesian engine**, **custom 
 - `custom-gun-particle-test-demo` — Roblox sandbox framework for custom gun particles via ImageBuffer
 - `roblox-modular-ui-library-demo` — modular UI library for rapid Roblox iteration
 
-→ all clips live on the [portfolio](https://toldbynun.github.io/)
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=50664c&height=3&section=footer" alt="divider" />
 
 ## public repos
@@ -236,7 +232,7 @@ Epistemic AI stack: pushing smaller models with a **Bayesian engine**, **custom 
 <br/>
 
 <div align="center">
-  <sub>Open to collab on systems, graphics, and AI tooling · <a href="https://toldbynun.github.io/">portfolio</a> · <a href="https://www.job2cv.app/">Job2CV</a></sub>
+  <sub>Open to collab on systems, graphics, and AI tooling · <a href="https://www.job2cv.app/">Job2CV</a></sub>
 </div>
 
 <br/>
