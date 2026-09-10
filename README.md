@@ -1,16 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050807,30:0b120d,65:6f8f6a,100:050807&height=220&section=header&text=Mika%20%2F%20ToldByNun&fontSize=52&fontColor=e7f0e3&fontAlignY=38&desc=systems%20%E2%80%A2%20graphics%20%E2%80%A2%20AI%20orchestration&descAlignY=56&descSize=18&animation=twinkling" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050807,30:0b120d,65:6f8f6a,100:050807&height=220&section=header&text=Mika%20%2F%20ToldByNun&fontSize=52&fontColor=e7f0e3&fontAlignY=38&desc=Systems%20Engineering%20%E2%80%A2%20Graphics%20%E2%80%A2%20AI%20Infrastructure&descAlignY=56&descSize=18&animation=twinkling" alt="header" />
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2200&pause=700&color=B8D0B1&center=true&vCenter=true&width=700&lines=build-first.%20no%20bloat.;C%20%2F%20C%2B%2B%20%2F%20Python%20%2F%20Lua%20%2B%20Luau;kernel%20%E2%80%A2%20memory%20%E2%80%A2%20shaders%20%E2%80%A2%20LLMs" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2200&pause=700&color=B8D0B1&center=true&vCenter=true&width=700&lines=High-Performance%20Engineering.;C%20%2F%20C%2B%2B%20%2F%20Python%20%2F%20Lua%20%2B%20Luau;Kernel%20%E2%80%A2%20Memory%20%E2%80%A2%20Shaders%20%E2%80%A2%20LLM%20Orchestration" alt="typing" />
 
   <br/>
 
-  <a href="mailto:mikajoeldierks@gmail.com"><img src="https://img.shields.io/badge/mail-mikajoeldierks%40gmail.com-B8D0B1?style=for-the-badge&logo=gmail&logoColor=0a0d0b" /></a>
-  <a href="https://toldbynun.github.io/"><img src="https://img.shields.io/badge/portfolio-toldbynun.github.io-6f8f6a?style=for-the-badge&logo=googlechrome&logoColor=0a0d0b" /></a>
-  <img src="https://img.shields.io/badge/location-Germany-0b120d?style=for-the-badge&logo=googlemaps&logoColor=B8D0B1" />
-  <img src="https://img.shields.io/badge/pronouns-he%2Fhim-6f8f6a?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=ToldByNun&label=profile%20views&color=6f8f6a&style=for-the-badge" alt="views" />
+  <a href="mailto:mikajoeldierks@gmail.com"><img src="https://img.shields.io/badge/Email-mikajoeldierks%40gmail.com-B8D0B1?style=for-the-badge&logo=gmail&logoColor=0a0d0b" /></a>
+  <a href="https://toldbynun.github.io/"><img src="https://img.shields.io/badge/Portfolio-toldbynun.github.io-6f8f6a?style=for-the-badge&logo=googlechrome&logoColor=0a0d0b" /></a>
+  <img src="https://img.shields.io/badge/Location-Germany-0b120d?style=for-the-badge&logo=googlemaps&logoColor=B8D0B1" />
+  <img src="https://img.shields.io/badge/Pronouns-he%2Fhim-6f8f6a?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=ToldByNun&label=Profile%20Views&color=6f8f6a&style=for-the-badge" alt="views" />
 
 </div>
 
@@ -18,37 +18,37 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=6f8f6a&height=3&section=footer" alt="divider" />
 
-## about
+## About
 
-Low-level systems builder from Germany. I ship research prototypes across **UEFI/kernel space**, **real-time graphics**, **reverse engineering**, and **LLM orchestration** — usually private, always build-first.
+Systems Engineer based in Germany specializing in low-level development, real-time computer graphics, reverse engineering, and AI infrastructure. Focused on building high-performance, resource-efficient solutions across **UEFI/kernel space**, **shader pipelines**, and **LLM/SLM orchestration**.
 
-Open to collaboration on systems tooling, shader pipelines, and AI infrastructure.
+Open to full-time engineering roles, technical advisory, and high-impact software collaborations.
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=160&text=QUICK%20DEMOS&fontSize=48&color=0:B8D0B1,100:050807&stroke=6f8f6a" alt="quick demos banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=160&text=FEATURED%20DEMOS&fontSize=48&color=0:B8D0B1,100:050807&stroke=6f8f6a" alt="featured demos banner" />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/watch%20now-featured%20demos-B8D0B1?style=for-the-badge&logo=youtube&logoColor=0a0d0b" />
-  <img src="https://img.shields.io/badge/new-private%20project%20footage-6f8f6a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Watch%20Now-Featured%20Demos-B8D0B1?style=for-the-badge&logo=youtube&logoColor=0a0d0b" />
+  <img src="https://img.shields.io/badge/Status-Active%20R%26D-6f8f6a?style=for-the-badge" />
 </div>
 
-## quick demos
+## Demos
 
 <div align="center">
   <table>
     <tr>
       <td width="50%" valign="top">
         <b>Windows UEFI Bootloader Hook</b><br/>
-        <sub>Early boot hooking in a controlled ring&nbsp;-1 lab setup.</sub><br/><br/>
+        <sub>Early boot execution and kernel-level hooking in a controlled Ring -1 environment.</sub><br/><br/>
         <video src="https://raw.githubusercontent.com/ToldByNun/ToldByNun/main/assets/videos/windows-kernel-bootloader-hook-demo.mp4" controls muted width="100%"></video><br/>
-        <sub><a href="https://raw.githubusercontent.com/ToldByNun/ToldByNun/main/assets/videos/windows-kernel-bootloader-hook-demo.mp4">direct link</a></sub>
+        <sub><a href="https://raw.githubusercontent.com/ToldByNun/ToldByNun/main/assets/videos/windows-kernel-bootloader-hook-demo.mp4">Direct Link</a></sub>
       </td>
       <td width="50%" valign="top">
-        <b>Job2CV</b><br/>
-        <sub>Electron app: local job matching, profile scoring, and AI-generated CVs.</sub><br/><br/>
+        <b>Job2CV Platform</b><br/>
+        <sub>Desktop application leveraging local AI for candidate-job matching, profile scoring, and dynamic CV generation.</sub><br/><br/>
         <video src="https://raw.githubusercontent.com/ToldByNun/ToldByNun/main/assets/videos/job2cv-demo.mp4" controls muted width="100%"></video><br/>
-        <sub><a href="https://raw.githubusercontent.com/ToldByNun/ToldByNun/main/assets/videos/job2cv-demo.mp4">direct link</a></sub>
+        <sub><a href="https://raw.githubusercontent.com/ToldByNun/ToldByNun/main/assets/videos/job2cv-demo.mp4">Direct Link</a></sub>
       </td>
     </tr>
   </table>
@@ -56,11 +56,11 @@ Open to collaboration on systems tooling, shader pipelines, and AI infrastructur
 
 <br/>
 
-## stack
+## Technical Stack
 
 <div align="center">
 
-**systems**<br/>
+**Systems & Languages**<br/>
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" />
 &nbsp;
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" />
@@ -71,7 +71,7 @@ Open to collaboration on systems tooling, shader pipelines, and AI infrastructur
 
 <br/><br/>
 
-**apps & runtime**<br/>
+**Application & Runtime**<br/>
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" />
 &nbsp;
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node" />
@@ -80,19 +80,19 @@ Open to collaboration on systems tooling, shader pipelines, and AI infrastructur
 
 <br/><br/>
 
-**focus areas**<br/>
-<img src="https://img.shields.io/badge/UEFI-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/kernel-6f8f6a?style=flat-square" />
-<img src="https://img.shields.io/badge/reverse%20engineering-374151?style=flat-square" />
-<img src="https://img.shields.io/badge/shaders-B8D0B1?style=flat-square" />
-<img src="https://img.shields.io/badge/LLMs%20%2F%20SLMs-A78BFA?style=flat-square" />
+**Core Competencies**<br/>
+<img src="https://img.shields.io/badge/UEFI%20Development-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Kernel%20Engineering-6f8f6a?style=flat-square" />
+<img src="https://img.shields.io/badge/Reverse%20Engineering-374151?style=flat-square" />
+<img src="https://img.shields.io/badge/Shader%20Programming-B8D0B1?style=flat-square" />
+<img src="https://img.shields.io/badge/LLM%20%2F%20SLM%20Orchestration-A78BFA?style=flat-square" />
 <img src="https://img.shields.io/badge/Dear%20ImGui-47848F?style=flat-square" />
 
 </div>
 
-## metrics
+## Metrics
 
-<sub>Stats reflect <b>public</b> GitHub activity only — most of my work lives in private repos.</sub>
+<sub>Activity metrics reflect **public** repositories. Key enterprise systems research is maintained in private repositories.</sub>
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=ToldByNun&show_icons=true&rank_icon=github&hide_border=true&bg_color=050807&title_color=B8D0B1&icon_color=8EAF89&text_color=d7e3d1&ring_color=8EAF89" alt="stats" />
@@ -110,7 +110,7 @@ Open to collaboration on systems tooling, shader pipelines, and AI infrastructur
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=6f8f6a&height=3&section=footer" alt="divider" />
 
-## spotlight (not all on GitHub)
+## Portfolio Spotlight
 
 <table>
 <tr>
@@ -118,24 +118,24 @@ Open to collaboration on systems tooling, shader pipelines, and AI infrastructur
 
 ### Mango
 
-AI-gestütztes **Agentic Coding Framework**, speziell zugeschnitten auf **Small Language Models (SLMs)** — Tool-Use, Planning und Kontext-Handling für kleinere, günstigere Modelle nutzbar gemacht.
+AI-driven **Agentic Coding Framework** tailored for **Small Language Models (SLMs)** — enabling tool usage, strategic planning, and efficient context management on lightweight architectures.
 
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/agentic-coding-A78BFA?style=flat-square" />
-<img src="https://img.shields.io/badge/SLM-focused-B8D0B1?style=flat-square" />
+<img src="https://img.shields.io/badge/Agentic%20Coding-A78BFA?style=flat-square" />
+<img src="https://img.shields.io/badge/SLM%20Optimization-B8D0B1?style=flat-square" />
 
 </td>
 <td width="50%" valign="top">
 
 ### Sentinel
 
-Deep-Learning-Framework für **C++/Python** — ermöglicht **Full-Training** und **Full Fine-Tuning** von LLMs auf Consumer-Hardware.
+Deep learning engine engineered in **C++ & Python** enabling **full-model training** and **fine-tuning** of Large Language Models directly on consumer-grade hardware.
 
 <br/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/fine--tuning-consumer%20HW-A78BFA?style=flat-square" />
+<img src="https://img.shields.io/badge/Fine--Tuning-Consumer%20HW-A78BFA?style=flat-square" />
 
 </td>
 </tr>
@@ -144,23 +144,23 @@ Deep-Learning-Framework für **C++/Python** — ermöglicht **Full-Training** un
 
 ### RE-UE4SS_lv-extension
 
-Live-Analyse und **Reverse-Engineering-Framework** für Unreal-Engine-Applikationen — inklusive **Disassembler** und Pseudocode-Pipeline.
+Live analysis and **reverse-engineering framework** for Unreal Engine applications featuring custom disassembler integration and an automated pseudocode generation pipeline.
 
 <br/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" />
-<img src="https://img.shields.io/badge/reverse--engineering-374151?style=flat-square" />
+<img src="https://img.shields.io/badge/Reverse%20Engineering-374151?style=flat-square" />
 
 </td>
 <td width="50%" valign="top">
 
 ### Chicony Spatial Tracking Algorithm
 
-**Low-Latency Tracking- und Vorhersage-Algorithmus** in C++, aus wissenschaftlicher Dokumentation rekonstruiert.
+**Low-latency positional tracking and prediction algorithm** implemented in C++, reconstructed from academic research papers for high-precision real-time execution.
 
 <br/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/low--latency-tracking-B8D0B1?style=flat-square" />
+<img src="https://img.shields.io/badge/Low--Latency-Tracking-B8D0B1?style=flat-square" />
 
 </td>
 </tr>
@@ -169,23 +169,23 @@ Live-Analyse und **Reverse-Engineering-Framework** für Unreal-Engine-Applikatio
 
 ### UEFI Bootloader & Kernel Bridge
 
-Low-Level **Bootloader**, der sich vor dem OS-Boot initialisiert und eine kontrollierte **Read/Write-Schnittstelle** in Ring&nbsp;-1 bereitstellt.
+Low-level **bootloader architecture** executing prior to OS initialization, providing a controlled **Read/Write memory interface** in Ring -1 context.
 
 <br/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/UEFI-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/low--level-research-A78BFA?style=flat-square" />
+<img src="https://img.shields.io/badge/Low--Level%20Systems-A78BFA?style=flat-square" />
 
 </td>
 <td width="50%" valign="top">
 
 ### Sentic AI
 
-Epistemic AI stack: pushing smaller models with a **Bayesian engine**, **custom search**, and **local + cloud** providers (OpenAI, Claude, NVIDIA, …). Private repo for [sentic.ai](http://sentic.ai).
+Epistemic AI stack enhancing small model reasoning via a **Bayesian inference engine**, **custom web search**, and hybrid **local + cloud LLM provider orchestration** (OpenAI, Claude, NVIDIA). Core backend for [sentic.ai](http://sentic.ai).
 
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/research-epistemic-A78BFA?style=flat-square" />
+<img src="https://img.shields.io/badge/Epistemic%20AI-A78BFA?style=flat-square" />
 
 </td>
 </tr>
@@ -194,11 +194,11 @@ Epistemic AI stack: pushing smaller models with a **Bayesian engine**, **custom 
 
 ### Job2CV
 
-Electron app: nearby job discovery, profile scoring, **personalized CVs + cover letters**, and an AI editor. *Mostly local — not fully public as one repo.*
+Desktop application for automated job matching, candidate scoring, and **AI-powered resume/cover letter customization** with built-in real-time editor.
 
 <br/>
-<img src="https://img.shields.io/badge/stack-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
-<img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Stack-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/LLM%20APIs-B8D0B1?style=flat-square" />
 
 </td>
@@ -206,7 +206,7 @@ Electron app: nearby job discovery, profile scoring, **personalized CVs + cover 
 
 ### IL osu! Autonomous Agent
 
-**Imitation-Learning** Experiment: KI-Agent verarbeitet Echtzeit-Inputs via IL statt Reinforcement Learning — Fokus auf Input-Latenz und Inferenz-Stabilität.
+**Imitation Learning** research project: Autonomous AI agent processing real-time game state inputs via IL instead of Reinforcement Learning, optimizing input latency and inference stability.
 
 <br/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
@@ -219,94 +219,92 @@ Electron app: nearby job discovery, profile scoring, **personalized CVs + cover 
 
 <br/>
 
-## project work history
+## Engineering History
 
-<sub>Timeline der abgeschlossenen Projekt-Demos — vollständige Liste auf dem <a href="https://toldbynun.github.io/">Portfolio</a>.</sub>
+<sub>Timeline of completed production milestones and technical demos — view the full portfolio at <a href="https://toldbynun.github.io/">toldbynun.github.io</a>.</sub>
 
-| datum | projekt | beschreibung |
+| Date | Project | Description |
 |---|---|---|
-| 16.08.2026 | **Mango** | KI-gestütztes Agentic Coding Framework, speziell auf SLMs angepasst. |
-| 24.07.2026 | **Sentinel** | Deep-Learning-Framework für C++/Python — full-training & full fine-tuning auf Consumer-Hardware. |
-| 10.07.2026 | **RE-UE4SS_lv-extension** | Live-Analyse & RE-Framework für Unreal-Engine-Apps, inkl. Disassembler & Pseudocode-Pipeline. |
-| 02.07.2026 | **Chicony Spatial Tracking Algorithm** | Low-Latency Tracking-/Vorhersage-Algorithmus in C++, aus wissenschaftlicher Doku rekonstruiert. |
-| 12.06.2026 | **UEFI Bootloader & Kernel Bridge** | Low-Level Bootloader mit kontrollierter Read/Write-Schnittstelle vor dem OS-Boot. |
-| 27.04.2026 | **Job2CV** | Electron-Tool für Job-Discovery, Profil-Matching und KI-gestützte CV/Anschreiben-Generierung. |
-| 15.04.2026 | **IL osu! Autonomous Agent** | Imitation-Learning Experiment: KI-Agent verarbeitet Echtzeit-Inputs via IL statt RL. |
-| 08.04.2026 | Windows UEFI Bootloader Hook (Demo) | UEFI/Low-Level Research-Demo zu frühen System-Hooking-Konzepten. |
-| 03.04.2026 | AOB & Pattern Generator | Tooling für AOB-/Pattern-Generierung zur automatisierten Binärmuster-Analyse. |
-| 28.03.2026 | Custom Gun Particle Test (Demo) | Roblox-Sandbox-Framework für custom Particle-Effekte via ImageBuffer. |
-| 25.03.2026 | Rhythia Demo | ImGui-basierte Shader-Integration. |
-| 20.03.2026 | Roblox Ingame Screenrecording Demo | Eigener Ingame-Livestream auf UI-Frame ohne externe Recording-Tools. |
-| 17.03.2026 | Shared Memory & Spatial Overlay (PoC) | Memory-Lese-/Schreibpfade, Inter-Process-Synchronisation und Overlay-Rendering. |
-| 21.02.2026 | Sentic AI | Epistemische KI mit Bayesian Engine, eigener Search und lokaler/Cloud-Modellorchestrierung. |
-| 14.02.2026 | Low-Latency Target Tracking (PoC) | Tracking- und Latenz-PoC zur Performance-Analyse von Input-Pipelines in Echtzeit. |
-| 16.01.2026 | Roblox Modular UI Library | Modulare UI-Komponenten für Roblox mit wiederverwendbaren Patterns. |
+| Aug 16, 2026 | **Mango** | Agentic AI coding framework optimized specifically for Small Language Models (SLMs). |
+| Jul 24, 2026 | **Sentinel** | High-performance C++/Python deep learning engine for local LLM fine-tuning and training. |
+| Jul 10, 2026 | **RE-UE4SS_lv-extension** | Live reverse-engineering engine for Unreal Engine apps with integrated disassembler. |
+| Jul 02, 2026 | **Chicony Spatial Tracking** | Reconstructed high-precision, low-latency tracking algorithm written in C++. |
+| Jun 12, 2026 | **UEFI Bootloader & Kernel Bridge** | Pre-boot UEFI architecture providing controlled Ring -1 memory access interfaces. |
+| Apr 27, 2026 | **Job2CV** | Electron platform for automated job discovery, match scoring, and AI document tailoring. |
+| Apr 15, 2026 | **IL osu! Autonomous Agent** | Real-time agent architecture testing Imitation Learning against low-latency inputs. |
+| Apr 08, 2026 | **Windows UEFI Bootloader Hook** | Technical proof-of-concept demonstrating early-stage system hooking mechanisms. |
+| Apr 03, 2026 | **AOB & Pattern Generator** | Automated binary pattern generation tool for memory analysis and reverse engineering. |
+| Mar 28, 2026 | **Custom Particle Engine** | High-performance particle rendering test built with direct image buffer manipulation. |
+| Mar 25, 2026 | **Rhythia Engine Integration** | Real-time GLSL/HLSL shader pipeline integrated into Dear ImGui interfaces. |
+| Mar 20, 2026 | **Native UI Screen Capture** | Zero-latency game-engine frame buffer capture rendering to native UI elements. |
+| Mar 17, 2026 | **Shared Memory & Overlay Engine** | High-speed inter-process communication (IPC) channel with real-time overlay rendering. |
+| Feb 21, 2026 | **Sentic AI Platform** | Bayesian reasoning engine with custom search and multi-provider LLM orchestration. |
+| Feb 14, 2026 | **Low-Latency Tracking Engine** | Real-time input handling framework for measuring and minimizing pipeline delay. |
+| Jan 16, 2026 | **Modular UI Library** | Reusable, high-efficiency UI component library built for modular game development. |
 
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=50664c&height=3&section=footer" alt="divider" />
 
-## public repos
+## Open Source Repositories
 
-> Clickable links below — everything else is **private** and not visible to other users.
-
-| repo | lang | about |
+| Repository | Language | Details |
 |------|------|-------|
-| [**TopoLines**](https://github.com/ToldByNun/TopoLines) | Luau | Roblox topo-line shader with writable image buffers — high quality, great performance in pure Lua. |
-| [**osu-parser-cpp**](https://github.com/ToldByNun/osu-parser-cpp) | C++ | Lightweight `.osu` parser for research and experimentation. |
-| [**py-arch-x**](https://github.com/ToldByNun/py-arch-x) | Python | CLI tool: scans codebases via `ast`, flags likely-unused functions — small and readable. |
-| [**Unified-AI-Provider-Orchestrator**](https://github.com/ToldByNun/Unified-AI-Provider-Orchestrator) | Python | Modular LLM provider abstraction — orchestrate multiple backends from one interface. |
-| [**Ui-Libraries**](https://github.com/ToldByNun/Ui-Libraries) | Lua | Custom UI libs: clean visuals, predictable behavior, real usage — not just demos. |
+| [**TopoLines**](https://github.com/ToldByNun/TopoLines) | Luau | High-performance topographic line shader utilizing writable image buffers. |
+| [**osu-parser-cpp**](https://github.com/ToldByNun/osu-parser-cpp) | C++ | Lightweight, zero-dependency parser designed for low-overhead research experiments. |
+| [**py-arch-x**](https://github.com/ToldByNun/py-arch-x) | Python | Static analysis CLI tool leveraging `ast` to detect unreferenced functions across codebases. |
+| [**Unified-AI-Provider-Orchestrator**](https://github.com/ToldByNun/Unified-AI-Provider-Orchestrator) | Python | Standardized abstraction layer for multi-provider LLM orchestration. |
+| [**Ui-Libraries**](https://github.com/ToldByNun/Ui-Libraries) | Lua | Production-ready UI framework optimized for lightweight memory footprints and clean rendering. |
 
 <br/>
 
-## private lab (descriptions only)
+## Proprietary Projects
 
 <table>
 <tr>
-<td width="28%"><b>Mango</b><br/><sub>Python · private</sub></td>
-<td>Agentic Coding Framework, das gezielt auf <b>Small Language Models</b> zugeschnitten ist statt auf große Frontier-Modelle.</td>
+<td width="28%"><b>Mango</b><br/><sub>Python</sub></td>
+<td>Agentic Coding Framework optimized for localized resource efficiency using Small Language Models.</td>
 </tr>
 <tr>
-<td><b>Sentinel</b><br/><sub>C++/Python · private</sub></td>
-<td>Deep-Learning-Framework für <b>Full-Training</b> und <b>Full Fine-Tuning</b> von LLMs auf Consumer-Hardware.</td>
+<td><b>Sentinel</b><br/><sub>C++ / Python</sub></td>
+<td>High-performance Deep Learning Framework engineered for full LLM training on standard hardware.</td>
 </tr>
 <tr>
-<td><b>RE-UE4SS_lv-extension</b><br/><sub>C++ · private</sub></td>
-<td>Live-Reverse-Engineering-Framework für Unreal-Engine-Apps mit eigenem <b>Disassembler</b> und Pseudocode-Pipeline.</td>
+<td><b>RE-UE4SS_lv-extension</b><br/><sub>C++</sub></td>
+<td>Unreal Engine inspection framework featuring dynamic disassembling and binary analysis pipelines.</td>
 </tr>
 <tr>
-<td><b>Chicony Spatial Tracking Algorithm</b><br/><sub>C++ · private</sub></td>
-<td>Low-Latency Tracking-Algorithmus, aus wissenschaftlicher Dokumentation rekonstruiert.</td>
+<td><b>Chicony Spatial Tracking</b><br/><sub>C++</sub></td>
+<td>Predictive real-time tracking algorithm reconstructed from research specifications.</td>
 </tr>
 <tr>
-<td><b>UEFI Bootloader &amp; Kernel Bridge</b><br/><sub>C++ · private</sub></td>
-<td>Bootloader, der sich vor dem OS initialisiert und eine kontrollierte <b>Read/Write-Schnittstelle</b> in Ring&nbsp;-1 bereitstellt.</td>
+<td><b>UEFI Bootloader &amp; Kernel Bridge</b><br/><sub>C++</sub></td>
+<td>Pre-boot Ring -1 execution module enabling secure memory reading and writing interfaces.</td>
 </tr>
 <tr>
-<td><b>Spectre-Memory-Framework</b><br/><sub>C · private</sub></td>
-<td>Memory library in <b>C</b> mit <b>keinen Imports</b>: ASM-Kernel-Hook, der <b>ntdll</b>-Funktionen abfängt, sodass Programme glauben, jeder Call käme aus <b>ntdll</b>.</td>
+<td><b>Spectre-Memory-Framework</b><br/><sub>C</sub></td>
+<td>Zero-dependency C memory manipulation library utilizing ASM kernel hooks and <code>ntdll</code> redirection.</td>
 </tr>
 <tr>
-<td><b>RhythiaRoblox</b><br/><sub>C++ · private</sub></td>
-<td>C++-Library: <b>Custom Shader</b> in wenigen Zeilen in <b>Dear ImGui</b> einbinden — Topo-Shader, <b>Blur</b>, via <b>HLSL</b> oder <b>GLSL</b>.</td>
+<td><b>Rhythia Graphics</b><br/><sub>C++</sub></td>
+<td>Graphics library for injecting custom HLSL/GLSL shaders directly into <b>Dear ImGui</b> pipelines.</td>
 </tr>
 <tr>
-<td><b>kernel-read-driver</b><br/><sub>C · private</sub></td>
-<td>Minimaler Kernel-Read-Driver: <code>IRP_MJ_DEVICE_CONTROL</code>, Hook auf <code>\Driver\Beep</code>, plus versionssensitives <b>CR3</b> aus <code>PEPROCESS</code>.</td>
+<td><b>kernel-read-driver</b><br/><sub>C</sub></td>
+<td>Low-level kernel driver handling <code>IRP_MJ_DEVICE_CONTROL</code>, driver hooks, and dynamic <b>CR3</b> retrieval.</td>
 </tr>
 <tr>
-<td><b><a href="http://sentic.ai">sentic.ai</a></b><br/><sub>Python · private</sub></td>
-<td>Offizielles Repo für <b><a href="http://sentic.ai">sentic.ai</a></b> — epistemisches KI-Tooling (Details liegen im privaten Tree).</td>
+<td><b><a href="http://sentic.ai">sentic.ai</a></b><br/><sub>Python</sub></td>
+<td>Production backend repository powering <b><a href="http://sentic.ai">sentic.ai</a></b>'s epistemic AI tooling.</td>
 </tr>
 </table>
 
 <br/>
 
 <div align="center">
-  <sub>Open to collab on systems, graphics, and AI tooling.</sub>
+  <sub>Open to software engineering opportunities in Systems, Graphics, and AI Infrastructure.</sub>
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8EAF89,40:050807,100:0b120d&height=120&section=footer&fontSize=30&fontColor=e7f0e3&text=thanks%20for%20stopping%20by&fontAlignY=72" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8EAF89,40:050807,100:0b120d&height=120&section=footer&fontSize=30&fontColor=e7f0e3&text=Thank%20you%20for%20visiting&fontAlignY=72" alt="footer" />
