@@ -7,6 +7,7 @@
   <br/>
 
   <a href="mailto:mikajoeldierks@gmail.com"><img src="https://img.shields.io/badge/mail-mikajoeldierks%40gmail.com-B8D0B1?style=for-the-badge&logo=gmail&logoColor=0a0d0b" /></a>
+  <a href="https://toldbynun.github.io/"><img src="https://img.shields.io/badge/portfolio-toldbynun.github.io-6f8f6a?style=for-the-badge&logo=googlechrome&logoColor=0a0d0b" /></a>
   <img src="https://img.shields.io/badge/location-Germany-0b120d?style=for-the-badge&logo=googlemaps&logoColor=B8D0B1" />
   <img src="https://img.shields.io/badge/pronouns-he%2Fhim-6f8f6a?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=ToldByNun&label=profile%20views&color=6f8f6a&style=for-the-badge" alt="views" />
@@ -19,7 +20,7 @@
 
 ## about
 
-Low-level systems builder from Germany. I ship research prototypes across **UEFI/kernel space**, **real-time graphics**, and **LLM orchestration** — usually private, always build-first.
+Low-level systems builder from Germany. I ship research prototypes across **UEFI/kernel space**, **real-time graphics**, **reverse engineering**, and **LLM orchestration** — usually private, always build-first.
 
 Open to collaboration on systems tooling, shader pipelines, and AI infrastructure.
 
@@ -82,8 +83,9 @@ Open to collaboration on systems tooling, shader pipelines, and AI infrastructur
 **focus areas**<br/>
 <img src="https://img.shields.io/badge/UEFI-111827?style=flat-square" />
 <img src="https://img.shields.io/badge/kernel-6f8f6a?style=flat-square" />
+<img src="https://img.shields.io/badge/reverse%20engineering-374151?style=flat-square" />
 <img src="https://img.shields.io/badge/shaders-B8D0B1?style=flat-square" />
-<img src="https://img.shields.io/badge/LLMs-A78BFA?style=flat-square" />
+<img src="https://img.shields.io/badge/LLMs%20%2F%20SLMs-A78BFA?style=flat-square" />
 <img src="https://img.shields.io/badge/Dear%20ImGui-47848F?style=flat-square" />
 
 </div>
@@ -114,9 +116,60 @@ Open to collaboration on systems tooling, shader pipelines, and AI infrastructur
 <tr>
 <td width="50%" valign="top">
 
-### Windows UEFI Bootloader Hook
+### Mango
 
-Low-level **UEFI bootloader** research in a ring&nbsp;-1 context. Focus: early hooking concepts in a controlled lab environment.
+AI-gestütztes **Agentic Coding Framework**, speziell zugeschnitten auf **Small Language Models (SLMs)** — Tool-Use, Planning und Kontext-Handling für kleinere, günstigere Modelle nutzbar gemacht.
+
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/agentic-coding-A78BFA?style=flat-square" />
+<img src="https://img.shields.io/badge/SLM-focused-B8D0B1?style=flat-square" />
+
+</td>
+<td width="50%" valign="top">
+
+### Sentinel
+
+Deep-Learning-Framework für **C++/Python** — ermöglicht **Full-Training** und **Full Fine-Tuning** von LLMs auf Consumer-Hardware.
+
+<br/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/fine--tuning-consumer%20HW-A78BFA?style=flat-square" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### RE-UE4SS_lv-extension
+
+Live-Analyse und **Reverse-Engineering-Framework** für Unreal-Engine-Applikationen — inklusive **Disassembler** und Pseudocode-Pipeline.
+
+<br/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" />
+<img src="https://img.shields.io/badge/reverse--engineering-374151?style=flat-square" />
+
+</td>
+<td width="50%" valign="top">
+
+### Chicony Spatial Tracking Algorithm
+
+**Low-Latency Tracking- und Vorhersage-Algorithmus** in C++, aus wissenschaftlicher Dokumentation rekonstruiert.
+
+<br/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/low--latency-tracking-B8D0B1?style=flat-square" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### UEFI Bootloader & Kernel Bridge
+
+Low-Level **Bootloader**, der sich vor dem OS-Boot initialisiert und eine kontrollierte **Read/Write-Schnittstelle** in Ring&nbsp;-1 bereitstellt.
 
 <br/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
@@ -151,9 +204,9 @@ Electron app: nearby job discovery, profile scoring, **personalized CVs + cover 
 </td>
 <td width="50%" valign="top">
 
-### IL osu! Play + Aim PoCs
+### IL osu! Autonomous Agent
 
-Imitation-learning and aim/tracking experiments around osu! input latency and inference stability.
+**Imitation-Learning** Experiment: KI-Agent verarbeitet Echtzeit-Inputs via IL statt Reinforcement Learning — Fokus auf Input-Latenz und Inferenz-Stabilität.
 
 <br/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
@@ -166,14 +219,30 @@ Imitation-learning and aim/tracking experiments around osu! input latency and in
 
 <br/>
 
-## latest 3 months (private demos)
+## project work history
 
-- `AOB-generator-osu-demo` — AOB / pattern-generation workflow demo
-- `memory-manipulation-esp-poc-demo` — memory / ESP PoC for data paths and overlay sync
-- `roblox-ingame-screenrecording-demo` — in-game live screen stream per frame, no external tools
-- `rhythiaroblox-demo` — ImGui library for fast shader integration
-- `custom-gun-particle-test-demo` — Roblox sandbox framework for custom gun particles via ImageBuffer
-- `roblox-modular-ui-library-demo` — modular UI library for rapid Roblox iteration
+<sub>Timeline der abgeschlossenen Projekt-Demos — vollständige Liste auf dem <a href="https://toldbynun.github.io/">Portfolio</a>.</sub>
+
+| datum | projekt | beschreibung |
+|---|---|---|
+| 16.08.2026 | **Mango** | KI-gestütztes Agentic Coding Framework, speziell auf SLMs angepasst. |
+| 24.07.2026 | **Sentinel** | Deep-Learning-Framework für C++/Python — full-training & full fine-tuning auf Consumer-Hardware. |
+| 10.07.2026 | **RE-UE4SS_lv-extension** | Live-Analyse & RE-Framework für Unreal-Engine-Apps, inkl. Disassembler & Pseudocode-Pipeline. |
+| 02.07.2026 | **Chicony Spatial Tracking Algorithm** | Low-Latency Tracking-/Vorhersage-Algorithmus in C++, aus wissenschaftlicher Doku rekonstruiert. |
+| 12.06.2026 | **UEFI Bootloader & Kernel Bridge** | Low-Level Bootloader mit kontrollierter Read/Write-Schnittstelle vor dem OS-Boot. |
+| 27.04.2026 | **Job2CV** | Electron-Tool für Job-Discovery, Profil-Matching und KI-gestützte CV/Anschreiben-Generierung. |
+| 15.04.2026 | **IL osu! Autonomous Agent** | Imitation-Learning Experiment: KI-Agent verarbeitet Echtzeit-Inputs via IL statt RL. |
+| 08.04.2026 | Windows UEFI Bootloader Hook (Demo) | UEFI/Low-Level Research-Demo zu frühen System-Hooking-Konzepten. |
+| 03.04.2026 | AOB & Pattern Generator | Tooling für AOB-/Pattern-Generierung zur automatisierten Binärmuster-Analyse. |
+| 28.03.2026 | Custom Gun Particle Test (Demo) | Roblox-Sandbox-Framework für custom Particle-Effekte via ImageBuffer. |
+| 25.03.2026 | Rhythia Demo | ImGui-basierte Shader-Integration. |
+| 20.03.2026 | Roblox Ingame Screenrecording Demo | Eigener Ingame-Livestream auf UI-Frame ohne externe Recording-Tools. |
+| 17.03.2026 | Shared Memory & Spatial Overlay (PoC) | Memory-Lese-/Schreibpfade, Inter-Process-Synchronisation und Overlay-Rendering. |
+| 21.02.2026 | Sentic AI | Epistemische KI mit Bayesian Engine, eigener Search und lokaler/Cloud-Modellorchestrierung. |
+| 14.02.2026 | Low-Latency Target Tracking (PoC) | Tracking- und Latenz-PoC zur Performance-Analyse von Input-Pipelines in Echtzeit. |
+| 16.01.2026 | Roblox Modular UI Library | Modulare UI-Komponenten für Roblox mit wiederverwendbaren Patterns. |
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=50664c&height=3&section=footer" alt="divider" />
 
@@ -195,20 +264,40 @@ Imitation-learning and aim/tracking experiments around osu! input latency and in
 
 <table>
 <tr>
-<td width="28%"><b>Spectre-Memory-Framework</b><br/><sub>C · private</sub></td>
-<td>Memory library in <b>C</b> with <b>no imports</b>: ASM kernel hook that intercepts <b>ntdll</b> functions so programs believe <b>every call originates from ntdll</b>.</td>
+<td width="28%"><b>Mango</b><br/><sub>Python · private</sub></td>
+<td>Agentic Coding Framework, das gezielt auf <b>Small Language Models</b> zugeschnitten ist statt auf große Frontier-Modelle.</td>
+</tr>
+<tr>
+<td><b>Sentinel</b><br/><sub>C++/Python · private</sub></td>
+<td>Deep-Learning-Framework für <b>Full-Training</b> und <b>Full Fine-Tuning</b> von LLMs auf Consumer-Hardware.</td>
+</tr>
+<tr>
+<td><b>RE-UE4SS_lv-extension</b><br/><sub>C++ · private</sub></td>
+<td>Live-Reverse-Engineering-Framework für Unreal-Engine-Apps mit eigenem <b>Disassembler</b> und Pseudocode-Pipeline.</td>
+</tr>
+<tr>
+<td><b>Chicony Spatial Tracking Algorithm</b><br/><sub>C++ · private</sub></td>
+<td>Low-Latency Tracking-Algorithmus, aus wissenschaftlicher Dokumentation rekonstruiert.</td>
+</tr>
+<tr>
+<td><b>UEFI Bootloader &amp; Kernel Bridge</b><br/><sub>C++ · private</sub></td>
+<td>Bootloader, der sich vor dem OS initialisiert und eine kontrollierte <b>Read/Write-Schnittstelle</b> in Ring&nbsp;-1 bereitstellt.</td>
+</tr>
+<tr>
+<td><b>Spectre-Memory-Framework</b><br/><sub>C · private</sub></td>
+<td>Memory library in <b>C</b> mit <b>keinen Imports</b>: ASM-Kernel-Hook, der <b>ntdll</b>-Funktionen abfängt, sodass Programme glauben, jeder Call käme aus <b>ntdll</b>.</td>
 </tr>
 <tr>
 <td><b>RhythiaRoblox</b><br/><sub>C++ · private</sub></td>
-<td>C++ library: drop <b>custom shaders</b> into <b>Dear ImGui</b> in a few lines — topo shaders, <b>blur</b>, via <b>HLSL</b> or <b>GLSL</b>.</td>
+<td>C++-Library: <b>Custom Shader</b> in wenigen Zeilen in <b>Dear ImGui</b> einbinden — Topo-Shader, <b>Blur</b>, via <b>HLSL</b> oder <b>GLSL</b>.</td>
 </tr>
 <tr>
 <td><b>kernel-read-driver</b><br/><sub>C · private</sub></td>
-<td>Minimal kernel read driver: <code>IRP_MJ_DEVICE_CONTROL</code>, hook on <code>\Driver\Beep</code>, plus <b>version-aware CR3</b> from <code>PEPROCESS</code>.</td>
+<td>Minimaler Kernel-Read-Driver: <code>IRP_MJ_DEVICE_CONTROL</code>, Hook auf <code>\Driver\Beep</code>, plus versionssensitives <b>CR3</b> aus <code>PEPROCESS</code>.</td>
 </tr>
 <tr>
 <td><b><a href="http://sentic.ai">sentic.ai</a></b><br/><sub>Python · private</sub></td>
-<td>Official repo for <b><a href="http://sentic.ai">sentic.ai</a></b> — epistemic AI tooling (details live in the private tree).</td>
+<td>Offizielles Repo für <b><a href="http://sentic.ai">sentic.ai</a></b> — epistemisches KI-Tooling (Details liegen im privaten Tree).</td>
 </tr>
 </table>
 
